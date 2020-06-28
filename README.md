@@ -5,10 +5,15 @@ Tells about Xentrinobot
 Acknowledge the following :
 
 Open Robotics
+
 ROS Wiki
+
 Linorobot
+
 Turtlebot
+
 ROS Philippines
+
 
 
 Christopher Coballes
